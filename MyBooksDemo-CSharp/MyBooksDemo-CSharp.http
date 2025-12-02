@@ -1,0 +1,6 @@
+@MyBooksDemo_CSharp_HostAddress = http://localhost:5281
+
+GET {{MyBooksDemo_CSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
