@@ -1,12 +1,377 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\services\\publishersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\services\\publishersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\migrations\\20260114021324_bookauthorcolumnremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\migrations\\20260114021324_bookauthorcolumnremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\viewmodels\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\viewmodels\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\viewmodels\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\viewmodels\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\models\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\models\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\migrations\\20260112232701_manytomanyadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\migrations\\20260112232701_manytomanyadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\migrations\\20260111050752_publisheradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\migrations\\20260111050752_publisheradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\mybooksdemo-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\mybooksdemo-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|c:\\users\\jdf\\source\\repos\\mybooksdemo-csharp\\mybooksdemo-csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD2369E2-D212-49F5-90BD-1A464EAF615B}|MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj|solutionrelative:mybooksdemo-csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublishersService.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Services\\PublishersService.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\Services\\PublishersService.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Services\\PublishersService.cs*",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\Services\\PublishersService.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:29:53.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260114021324_BookAuthorColumnRemoved.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Migrations\\20260114021324_BookAuthorColumnRemoved.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Migrations\\20260114021324_BookAuthorColumnRemoved.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Migrations\\20260114021324_BookAuthorColumnRemoved.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Migrations\\20260114021324_BookAuthorColumnRemoved.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T02:13:25.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:53:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Services\\BooksService.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\Services\\BooksService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwCkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:08:29.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Controllers\\AuthorsController.cs*",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Controllers\\AuthorsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:47:34.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorsService.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Services\\AuthorsService.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\Services\\AuthorsService.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Services\\AuthorsService.cs*",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\Services\\AuthorsService.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:39:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:35:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublisherVM.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\ViewModels\\PublisherVM.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\ViewModels\\PublisherVM.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\ViewModels\\PublisherVM.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\ViewModels\\PublisherVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:33:29.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorVM.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\ViewModels\\AuthorVM.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\ViewModels\\AuthorVM.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\ViewModels\\AuthorVM.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\ViewModels\\AuthorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:42:59.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\ViewModels\\BookVM.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\ViewModels\\BookVM.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\ViewModels\\BookVM.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\ViewModels\\BookVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:13:57.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Startup.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Startup.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Startup.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Startup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:11:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Models\\Book.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\Models\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:52:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\AppDbInitializer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:17:50.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Program.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:40:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Models\\Author.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\Models\\Author.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:08:05.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Models\\Book_Author.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\Models\\Book_Author.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\Models\\Book_Author.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\Models\\Book_Author.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:10:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260112232701_ManytoManyAdded.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Migrations\\20260112232701_ManytoManyAdded.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Migrations\\20260112232701_ManytoManyAdded.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Migrations\\20260112232701_ManytoManyAdded.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Migrations\\20260112232701_ManytoManyAdded.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:27:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260111050752_PublisherAdded.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Migrations\\20260111050752_PublisherAdded.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Migrations\\20260111050752_PublisherAdded.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Migrations\\20260111050752_PublisherAdded.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Migrations\\20260111050752_PublisherAdded.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T05:07:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:44:33.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\appsettings.json",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\appsettings.json",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T19:50:42.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyBooksDemo-CSharp.csproj",
+              "DocumentMoniker": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj",
+              "RelativeDocumentMoniker": "MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj",
+              "ToolTip": "C:\\Users\\JDF\\source\\repos\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj",
+              "RelativeToolTip": "MyBooksDemo-CSharp\\MyBooksDemo-CSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T20:11:17.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
